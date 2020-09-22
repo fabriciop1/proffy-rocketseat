@@ -1,5 +1,12 @@
-# proffy-rocketseat
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+  Node.js | ReactJS | React Native
+</p>
 
+<p align="center">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/fabriciop1/proffy-rocketseat?color=774DD6">
+  <img alt="Licença" src="https://img.shields.io/badge/license-MIT-8257E5">
+</p>
 ## :bookmark: Sobre
 
 O **Proffy** é uma aplicação Web e Mobile implementada em React, servindo como mediadora entre alunos e professores freelancers. Dessa forma, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como disciplina, custo e horário. Também é possível que os alunos busquem aulas cadastradas e se conectem com os professores através do Whatsapp.
