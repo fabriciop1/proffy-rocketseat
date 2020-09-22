@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Proffy" width="280"/>
+   <img src="./.github/logo.svg" alt="Proffy" height="100px"/>
   Node.js | ReactJS | React Native
 </p>
 
