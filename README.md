@@ -18,14 +18,50 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 ## :boom: Como Executar
 
+### Rodando a API REST
+
 ```sh
   # Navegando até a pasta da API
   $ cd proffyserver
+  
   # Instalando as dependências
-  $ yarn # ou npm install
-  # Configurando o banco de dados e criando as tabelas.
-  $ yarn #ou npm start
+  $ yarn install # ou npm install
+  
+  # Rodando a aplicação
+  $ yarn start # ou npm start
 ```
+
+Acessando a API no navegador: http://localhost:3001/
+
+### Para rodar o sistema Web
+
+```bash
+# Navegando até a pasta Web
+$ cd proffyweb
+
+# Instalando as dependências
+$ yarn install # ou npm install
+
+# Rodando a aplicação
+$ yarn start # ou npm start
+```
+
+Acessando o sistema pelo navegador: http://localhost:3000/
+
+### Para rodar o sistema Mobile 
+
+```bash
+# Navegando até a pasta Mobile
+$ cd proffymobile
+
+# Instalando as depedencias
+$ yarn install # ou npm install
+
+# Rodando a aplicação
+$ yarn start # ou npm start
+```
+
+O [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) gerará um QRCode para rodar a aplicação em celular físico, ou emulador, se preferir.
 
 ## :memo: Licença
 
