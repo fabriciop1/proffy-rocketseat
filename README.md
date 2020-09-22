@@ -18,6 +18,19 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 ## :boom: Como Executar
 
+### **Pré-requisitos**
+
+  - É **necessário** possuir o **Node.js** instalado
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurad.
+  - Também, é **preciso** ter um gerenciador de pacotes, seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global.
+
+### Clonando o repositório
+
+```sh
+$ git clone https://github.com/fabriciop1/proffy-rocketseat.git
+```
+
 ### Rodando a API REST
 
 ```sh
@@ -33,7 +46,7 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 Acessando a API no navegador: http://localhost:3001/
 
-### Para rodar o sistema Web
+### Rodando o sistema Web
 
 ```bash
 # Navegando até a pasta Web
@@ -48,7 +61,7 @@ $ yarn start # ou npm start
 
 Acessando o sistema pelo navegador: http://localhost:3000/
 
-### Para rodar o sistema Mobile 
+### Rodando o sistema Mobile 
 
 ```bash
 # Navegando até a pasta Mobile
