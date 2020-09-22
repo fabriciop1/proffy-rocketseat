@@ -1,7 +1,7 @@
-<h1 align="center">
-   <img src="./.github/logo.svg" alt="Proffy" height="100px"/>
+<p align="center">
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
   Node.js | ReactJS | React Native
-</h1>
+</p>
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/fabriciop1/proffy-rocketseat?color=774DD6">
