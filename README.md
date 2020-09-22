@@ -6,7 +6,21 @@
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/fabriciop1/proffy-rocketseat?color=774DD6">
   <img alt="Licença" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fabriciop1/proffy-rocketseat?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/fabriciop1/proffy-rocketseat?style=flat-square">
+   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square">
 </p>
+
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="screenshots" width="650px" src="./.github/screenshots.png" />
+<p>
 
 ## :bookmark: Sobre
 
